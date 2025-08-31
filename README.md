@@ -6,4 +6,7 @@
 <h1>리눅스 기본 개념 / 리눅스 실습 환경 구축<h1/>
     <a href="https://stbhg5.tistory.com/566">리눅스(Linux)란?</a><br/>
     <a href="https://stbhg5.tistory.com/567">다양한 리눅스의 종류 / 리눅스 배포판</a><br/>
+    <a href="https://stbhg5.tistory.com/566">리눅스(Linux)란?</a><br/>
+    <a href="https://stbhg5.tistory.com/579">리눅스 환경 구축하는 방법 (feat. AWS EC2)</a><br/>
+    <a href="https://stbhg5.tistory.com/580">[실습] AWS로 리눅스(Ubuntu) 환경 구축하기</a><br/>
     <br/>

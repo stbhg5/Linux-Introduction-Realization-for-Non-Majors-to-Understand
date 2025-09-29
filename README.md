@@ -15,4 +15,5 @@
 
 <h2>필수로 꼭 알아야 하는 기본 명령어<h2/>
     <a href="https://stbhg5.tistory.com/595">리눅스에서의 파일(file), 디렉터리(directory)의 의미</a><br/>
+    <a href="https://stbhg5.tistory.com/597">폴더 이동하면서 파일 둘러보기 / 리눅스의 기본 폴더 구조 (pwd, cd, ls)</a><br/>
     <br/>

@@ -18,4 +18,5 @@
     <a href="https://stbhg5.tistory.com/597">폴더 이동하면서 파일 둘러보기 / 리눅스의 기본 폴더 구조 (pwd, cd, ls)</a><br/>
     <a href="https://stbhg5.tistory.com/598">파일 종류 확인 / 숨김 파일 조회 (ls -l, ls -a)</a><br/>
     <a href="https://stbhg5.tistory.com/599">리눅스 명령어들의 공통적인 패턴 - 옵션(Option)</a><br/>
+    <a href="https://stbhg5.tistory.com/600">상대 경로, 절대 경로란? / 구분 방법</a><br/>
     <br/>

@@ -21,4 +21,5 @@
     <a href="https://stbhg5.tistory.com/600">상대 경로, 절대 경로란? / 구분 방법</a><br/>
     <a href="https://stbhg5.tistory.com/602">경로에 물결 표시(~)는 무슨 의미일까?</a><br/>
     <a href="https://stbhg5.tistory.com/605">파일 및 디렉터리 생성 / 삭제 (touch, mkdir, rm)</a><br/>
+    <a href="https://stbhg5.tistory.com/606">파일 및 디렉터리 복사 / 이동 / 이름 변경 (cp, mv)</a><br/>
     <br/>

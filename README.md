@@ -23,4 +23,5 @@
     <a href="https://stbhg5.tistory.com/605">파일 및 디렉터리 생성 / 삭제 (touch, mkdir, rm)</a><br/>
     <a href="https://stbhg5.tistory.com/606">파일 및 디렉터리 복사 / 이동 / 이름 변경 (cp, mv)</a><br/>
     <a href="https://stbhg5.tistory.com/607">명령어를 일일이 다 칠 필요 없는 자동완성 기능 / 이전에 썼던 명령어 불러오기</a><br/>
+    <a href="https://stbhg5.tistory.com/609">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>

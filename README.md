@@ -25,3 +25,7 @@
     <a href="https://stbhg5.tistory.com/607">명령어를 일일이 다 칠 필요 없는 자동완성 기능 / 이전에 썼던 명령어 불러오기</a><br/>
     <a href="https://stbhg5.tistory.com/609">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>
+
+<h2>필수로 꼭 알아야 하는 기본 명령어<h2/>
+    <a href="https://stbhg5.tistory.com/610">리눅스에서 가장 많이 사용하는 텍스트 에디터 (vim)</a><br/>
+    <br/>

@@ -28,4 +28,5 @@
 
 <h2>파일을 작성/조회할 때 자주 사용하는 명령어<h2/>
     <a href="https://stbhg5.tistory.com/610">리눅스에서 가장 많이 사용하는 텍스트 에디터 (vim)</a><br/>
+    <a href="https://stbhg5.tistory.com/611">vim 에디터 기본 사용법 - 1</a><br/>
     <br/>

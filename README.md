@@ -30,4 +30,5 @@
     <a href="https://stbhg5.tistory.com/610">리눅스에서 가장 많이 사용하는 텍스트 에디터 (vim)</a><br/>
     <a href="https://stbhg5.tistory.com/611">vim 에디터 기본 사용법 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/612">vim 에디터 기본 사용법 - 2</a><br/>
+    <a href="https://stbhg5.tistory.com/616">파일에 작성된 내용 보기 (vim, cat)</a><br/>
     <br/>

@@ -31,4 +31,5 @@
     <a href="https://stbhg5.tistory.com/611">vim 에디터 기본 사용법 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/612">vim 에디터 기본 사용법 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/616">파일에 작성된 내용 보기 (vim, cat)</a><br/>
+    <a href="https://stbhg5.tistory.com/619">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>

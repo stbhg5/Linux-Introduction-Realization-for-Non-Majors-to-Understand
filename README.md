@@ -33,3 +33,7 @@
     <a href="https://stbhg5.tistory.com/616">파일에 작성된 내용 보기 (vim, cat)</a><br/>
     <a href="https://stbhg5.tistory.com/619">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>
+
+<h2>리눅스에서 빈번하게 마주치는 권한 문제(Permission Denied)<h2/>
+    <a href="https://stbhg5.tistory.com/621">Permission Denied 에러 마주치는 경우</a><br/>
+    <br/>

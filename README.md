@@ -37,5 +37,6 @@
 <h2>리눅스에서 빈번하게 마주치는 권한 문제(Permission Denied)<h2/>
     <a href="https://stbhg5.tistory.com/621">Permission Denied 에러 마주치는 경우</a><br/>
     <a href="https://stbhg5.tistory.com/624">사용자(user), 슈퍼 사용자(super user)란?</a><br/>
+    <a href="https://stbhg5.tistory.com/625">그룹(group)이란?</a><br/>
     <a href=""></a><br/>
     <br/>

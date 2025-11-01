@@ -39,5 +39,6 @@
     <a href="https://stbhg5.tistory.com/624">사용자(user), 슈퍼 사용자(super user)란?</a><br/>
     <a href="https://stbhg5.tistory.com/625">그룹(group)이란?</a><br/>
     <a href="https://stbhg5.tistory.com/627">권한(Permission)이란?</a><br/>
+    <a href="https://stbhg5.tistory.com/628">[실습] 왜 Permission Denied 에러가 발생하는 지 원인 분석해보기</a><br/>
     <a href=""></a><br/>
     <br/>

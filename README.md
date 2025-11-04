@@ -42,5 +42,8 @@
     <a href="https://stbhg5.tistory.com/628">[실습] 왜 Permission Denied 에러가 발생하는 지 원인 분석해보기</a><br/>
     <a href="https://stbhg5.tistory.com/633">권한 변경하는 방법 (chmod)</a><br/>
     <a href="https://stbhg5.tistory.com/634">[실습] 보안을 위해 파일 접근 권한 제한하기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/635">어떠한 제약도 없이 모든 기능을 사용할 수 있는 관리자 권한 (sudo)</a><br/>
     <br/>
+
+
+<a href=""></a><br/>

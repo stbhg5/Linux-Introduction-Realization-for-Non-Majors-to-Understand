@@ -45,5 +45,7 @@
     <a href="https://stbhg5.tistory.com/635">어떠한 제약도 없이 모든 기능을 사용할 수 있는 관리자 권한 (sudo)</a><br/>
     <br/>
 
-
-<a href=""></a><br/>
+<h2>외부 프로그램을 설치할 때 사용하는 패키지 매니저 (apt)<h2/>
+    <a href="https://stbhg5.tistory.com/636">패키지 매니저(Package Manager)란?</a><br/>
+    <a href=""></a><br/>
+    <br/>

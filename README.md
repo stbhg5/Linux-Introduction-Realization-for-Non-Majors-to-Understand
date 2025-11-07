@@ -48,5 +48,6 @@
 <h2>외부 프로그램을 설치할 때 사용하는 패키지 매니저 (apt)<h2/>
     <a href="https://stbhg5.tistory.com/636">패키지 매니저(Package Manager)란?</a><br/>
     <a href="https://stbhg5.tistory.com/637">자주 사용하는 apt 명령어 4가지</a><br/>
+    <a href="https://stbhg5.tistory.com/638">[실습] apt를 활용해 Nginx 설치해보기</a><br/>
     <a href=""></a><br/>
     <br/>

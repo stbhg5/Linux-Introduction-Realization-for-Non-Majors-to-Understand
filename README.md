@@ -49,5 +49,7 @@
     <a href="https://stbhg5.tistory.com/636">패키지 매니저(Package Manager)란?</a><br/>
     <a href="https://stbhg5.tistory.com/637">자주 사용하는 apt 명령어 4가지</a><br/>
     <a href="https://stbhg5.tistory.com/638">[실습] apt를 활용해 Nginx 설치해보기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/639">[보충 자료] apt 명령어를 쓸 때 sudo를 써야 하는 이유</a><br/>
     <br/>
+
+<a href=""></a><br/>

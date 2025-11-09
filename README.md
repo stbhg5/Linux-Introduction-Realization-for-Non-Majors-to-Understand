@@ -3,7 +3,7 @@
 
 <br/><br/><br/>
 
-<h2>리눅스 기본 개념 / 리눅스 실습 환경 구축<h2/>
+<h2>1. 리눅스 기본 개념 / 리눅스 실습 환경 구축<h2/>
     <a href="https://stbhg5.tistory.com/566">리눅스(Linux)란?</a><br/>
     <a href="https://stbhg5.tistory.com/567">다양한 리눅스의 종류 / 리눅스 배포판</a><br/>
     <a href="https://stbhg5.tistory.com/566">리눅스(Linux)란?</a><br/>
@@ -13,7 +13,7 @@
     <a href="https://stbhg5.tistory.com/594">리눅스를 실행시키자마자 뜨는 첫 화면 해석하기 / 기본 조작법 익히기</a><br/>
     <br/>
 
-<h2>필수로 꼭 알아야 하는 기본 명령어<h2/>
+<h2>2. 필수로 꼭 알아야 하는 기본 명령어<h2/>
     <a href="https://stbhg5.tistory.com/595">리눅스에서의 파일(file), 디렉터리(directory)의 의미</a><br/>
     <a href="https://stbhg5.tistory.com/597">폴더 이동하면서 파일 둘러보기 / 리눅스의 기본 폴더 구조 (pwd, cd, ls)</a><br/>
     <a href="https://stbhg5.tistory.com/598">파일 종류 확인 / 숨김 파일 조회 (ls -l, ls -a)</a><br/>
@@ -26,7 +26,7 @@
     <a href="https://stbhg5.tistory.com/609">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>
 
-<h2>파일을 작성/조회할 때 자주 사용하는 명령어<h2/>
+<h2>3. 파일을 작성/조회할 때 자주 사용하는 명령어<h2/>
     <a href="https://stbhg5.tistory.com/610">리눅스에서 가장 많이 사용하는 텍스트 에디터 (vim)</a><br/>
     <a href="https://stbhg5.tistory.com/611">vim 에디터 기본 사용법 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/612">vim 에디터 기본 사용법 - 2</a><br/>
@@ -34,7 +34,7 @@
     <a href="https://stbhg5.tistory.com/619">[연습문제] 지금까지 배운 명령어 실전처럼 써먹어보기</a><br/>
     <br/>
 
-<h2>리눅스에서 빈번하게 마주치는 권한 문제(Permission Denied)<h2/>
+<h2>4. 리눅스에서 빈번하게 마주치는 권한 문제(Permission Denied)<h2/>
     <a href="https://stbhg5.tistory.com/621">Permission Denied 에러 마주치는 경우</a><br/>
     <a href="https://stbhg5.tistory.com/624">사용자(user), 슈퍼 사용자(super user)란?</a><br/>
     <a href="https://stbhg5.tistory.com/625">그룹(group)이란?</a><br/>
@@ -45,11 +45,15 @@
     <a href="https://stbhg5.tistory.com/635">어떠한 제약도 없이 모든 기능을 사용할 수 있는 관리자 권한 (sudo)</a><br/>
     <br/>
 
-<h2>외부 프로그램을 설치할 때 사용하는 패키지 매니저 (apt)<h2/>
+<h2>5. 외부 프로그램을 설치할 때 사용하는 패키지 매니저 (apt)<h2/>
     <a href="https://stbhg5.tistory.com/636">패키지 매니저(Package Manager)란?</a><br/>
     <a href="https://stbhg5.tistory.com/637">자주 사용하는 apt 명령어 4가지</a><br/>
     <a href="https://stbhg5.tistory.com/638">[실습] apt를 활용해 Nginx 설치해보기</a><br/>
     <a href="https://stbhg5.tistory.com/639">[보충 자료] apt 명령어를 쓸 때 sudo를 써야 하는 이유</a><br/>
     <br/>
 
-<a href=""></a><br/>
+<h2>6. 로그 남길 때 많이 사용하는 표준 출력(stdout), 표준 에러 출력(stderr)<h2/>
+    <a href="https://stbhg5.tistory.com/641">표준 출력(stdout)이란?</a><br/>
+    <a href=""></a><br/>
+    <br/>
+    

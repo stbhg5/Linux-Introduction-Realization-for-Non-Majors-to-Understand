@@ -55,6 +55,7 @@
 <h2>6. 로그 남길 때 많이 사용하는 표준 출력(stdout), 표준 에러 출력(stderr)<h2/>
     <a href="https://stbhg5.tistory.com/641">표준 출력(stdout)이란?</a><br/>
     <a href="https://stbhg5.tistory.com/644">[실습] 표준 출력(stdout) 활용해보기</a><br/>
+    <a href="https://stbhg5.tistory.com/646">표준 에러 출력(stderr)이란?</a><br/>
     <a href=""></a><br/>
     <br/>
     

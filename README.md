@@ -57,6 +57,7 @@
     <a href="https://stbhg5.tistory.com/644">[실습] 표준 출력(stdout) 활용해보기</a><br/>
     <a href="https://stbhg5.tistory.com/646">표준 에러 출력(stderr)이란?</a><br/>
     <a href="https://stbhg5.tistory.com/647">표준 출력(stdout)과 표준 에러 출력(stderr)의 추가 기능</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/652">[실습] Spring Boot 서버가 출력하는 로그를 파일로 남기기</a><br/>
     <br/>
     
+<a href=""></a><br/>

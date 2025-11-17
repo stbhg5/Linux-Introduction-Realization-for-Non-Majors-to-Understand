@@ -59,5 +59,9 @@
     <a href="https://stbhg5.tistory.com/647">표준 출력(stdout)과 표준 에러 출력(stderr)의 추가 기능</a><br/>
     <a href="https://stbhg5.tistory.com/652">[실습] Spring Boot 서버가 출력하는 로그를 파일로 남기기</a><br/>
     <br/>
-    
-<a href=""></a><br/>
+
+<h2>7. 실무에서 백엔드 서버를 운영할 때 자주 사용하는 명령어<h2/>
+    <a href="https://stbhg5.tistory.com/656">특정 키워드가 들어간 문장만 찾고 싶을 때 (grep)</a><br/>
+    <a href=""></a><br/>
+    <br/>
+

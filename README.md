@@ -62,6 +62,7 @@
 
 <h2>7. 실무에서 백엔드 서버를 운영할 때 자주 사용하는 명령어<h2/>
     <a href="https://stbhg5.tistory.com/656">특정 키워드가 들어간 문장만 찾고 싶을 때 (grep)</a><br/>
+    <a href="https://stbhg5.tistory.com/658">리눅스에서 실행 중인 프로세스 조회하기 / 종료하기 (ps, kill)</a><br/>
     <a href=""></a><br/>
     <br/>
 

@@ -64,6 +64,7 @@
     <a href="https://stbhg5.tistory.com/656">특정 키워드가 들어간 문장만 찾고 싶을 때 (grep)</a><br/>
     <a href="https://stbhg5.tistory.com/658">리눅스에서 실행 중인 프로세스 조회하기 / 종료하기 (ps, kill)</a><br/>
     <a href="https://stbhg5.tistory.com/660">[실습] 실행시킨 Spring Boot 프로세스를 조회하고 종료해보기</a><br/>
+    <a href="https://stbhg5.tistory.com/661">터미널 창을 끄더라도 프로그램이 계속 실행되도록 만들기 (nohup, &)</a><br/>
     <a href=""></a><br/>
     <br/>
 

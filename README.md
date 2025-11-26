@@ -67,6 +67,7 @@
     <a href="https://stbhg5.tistory.com/661">터미널 창을 끄더라도 프로그램이 계속 실행되도록 만들기 (nohup, &)</a><br/>
     <a href="https://stbhg5.tistory.com/663">백그라운드에서 실행되고 있는 프로세스의 로그 확인하는 법 (nohup)</a><br/>
     <a href="https://stbhg5.tistory.com/665">특정 포트 번호에 실행되고 있는 프로세스 조회하기 / 포트 충돌 해결하기 (lsof)</a><br/>
+    <a href="https://stbhg5.tistory.com/666">서버가 잘 작동하는 지 API 요청 보내보기 (curl)</a><br/>
     <a href=""></a><br/>
     <br/>
 

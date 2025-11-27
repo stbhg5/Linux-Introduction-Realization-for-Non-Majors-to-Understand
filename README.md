@@ -68,6 +68,7 @@
     <a href="https://stbhg5.tistory.com/663">백그라운드에서 실행되고 있는 프로세스의 로그 확인하는 법 (nohup)</a><br/>
     <a href="https://stbhg5.tistory.com/665">특정 포트 번호에 실행되고 있는 프로세스 조회하기 / 포트 충돌 해결하기 (lsof)</a><br/>
     <a href="https://stbhg5.tistory.com/666">서버가 잘 작동하는 지 API 요청 보내보기 (curl)</a><br/>
+    <a href="https://stbhg5.tistory.com/668">내 IP 주소 확인하기 (ip)</a><br/>
     <a href=""></a><br/>
     <br/>
 

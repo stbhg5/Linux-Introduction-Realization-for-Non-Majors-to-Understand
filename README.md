@@ -70,6 +70,7 @@
     <a href="https://stbhg5.tistory.com/666">서버가 잘 작동하는 지 API 요청 보내보기 (curl)</a><br/>
     <a href="https://stbhg5.tistory.com/668">내 IP 주소 확인하기 (ip)</a><br/>
     <a href="https://stbhg5.tistory.com/669">컴퓨터가 느려질 때 CPU, Memory 성능 체크해서 원인 파악하기 (top)</a><br/>
+    <a href="https://stbhg5.tistory.com/672">로그 실시간으로 확인하는 법 (tail -f)</a><br/>
     <a href=""></a><br/>
     <br/>
 

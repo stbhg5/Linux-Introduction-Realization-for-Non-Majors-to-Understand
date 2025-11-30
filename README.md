@@ -71,6 +71,9 @@
     <a href="https://stbhg5.tistory.com/668">내 IP 주소 확인하기 (ip)</a><br/>
     <a href="https://stbhg5.tistory.com/669">컴퓨터가 느려질 때 CPU, Memory 성능 체크해서 원인 파악하기 (top)</a><br/>
     <a href="https://stbhg5.tistory.com/672">로그 실시간으로 확인하는 법 (tail -f)</a><br/>
-    <a href=""></a><br/>
     <br/>
 
+<h2>8. 명령어들을 자동화시킬 수 있는 쉘 스크립트<h2/>
+    <a href="https://stbhg5.tistory.com/675">문자열을 터미널 화면에 출력하는 명령어 (echo)</a><br/>
+    <a href=""></a><br/>
+    <br/>

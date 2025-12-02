@@ -76,5 +76,6 @@
 <h2>8. 명령어들을 자동화시킬 수 있는 쉘 스크립트<h2/>
     <a href="https://stbhg5.tistory.com/675">문자열을 터미널 화면에 출력하는 명령어 (echo)</a><br/>
     <a href="https://stbhg5.tistory.com/678">쉘 스크립트 파일 작성/실행 하는 법</a><br/>
+    <a href="https://stbhg5.tistory.com/679">[실습] 'git pull 받아오기 → Spring Boot 빌드 → 빌드된 jar 파일 실행'의 과정을 자동화하기</a><br/>
     <a href=""></a><br/>
     <br/>

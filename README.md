@@ -80,4 +80,7 @@
     <a href="https://stbhg5.tistory.com/682">[참고] 쉘 스크립트 공부 지침</a><br/>
     <br/>
 
-<a href=""></a><br/>
+<h2>9. Q&A / 마무리<h2/>
+    <a href="https://stbhg5.tistory.com/684">AWS 비용 나가지 않게 리소스 종료하기 / 혹시나 비용 나가고 있는 지 체크하기</a><br/>
+    <a href=""></a><br/>
+    <br/>

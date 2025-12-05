@@ -82,5 +82,7 @@
 
 <h2>9. Q&A / 마무리<h2/>
     <a href="https://stbhg5.tistory.com/684">AWS 비용 나가지 않게 리소스 종료하기 / 혹시나 비용 나가고 있는 지 체크하기</a><br/>
+    <a href="https://stbhg5.tistory.com/685">[Q&A] 왜 윈도우에서는 배운 리눅스 명령어가 작동하지 않는 거죠?</a><br/>
+    <a href="https://stbhg5.tistory.com/686">[Q&A] 강의에서 안 배운 리눅스 명령어는 어떻게 공부해야 하나요?</a><br/>
     <a href=""></a><br/>
     <br/>
